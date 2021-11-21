@@ -19,3 +19,6 @@
 - We can predict that the busiest times will be rush hours on weekdays (7-8am and 5-7pm) and a little more evenly spread out on weekends. 
 - The majority of users are likely to be male and use the subscription model. 
 - We can also predict that the starting and ending locations of riders will be about the same locations. 
+
+### Tableau Link
+https://public.tableau.com/app/profile/rosalie4868/viz/Mod14_16375258420930/CitibikeAnalysisChallenge?publish=yes
